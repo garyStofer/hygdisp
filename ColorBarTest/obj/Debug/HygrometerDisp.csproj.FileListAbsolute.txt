@@ -1,0 +1,16 @@
+D:\NET.C#\HygroDisp\ColorBarTest\bin\Debug\HygDisp.exe.config
+D:\NET.C#\HygroDisp\ColorBarTest\bin\Debug\HygDisp.exe.manifest
+D:\NET.C#\HygroDisp\ColorBarTest\bin\Debug\HygDisp.application
+D:\NET.C#\HygroDisp\ColorBarTest\bin\Debug\HygDisp.exe
+D:\NET.C#\HygroDisp\ColorBarTest\bin\Debug\HygDisp.pdb
+D:\NET.C#\HygroDisp\ColorBarTest\bin\Debug\Instruments.dll
+D:\NET.C#\HygroDisp\ColorBarTest\bin\Debug\Instruments.pdb
+D:\NET.C#\HygroDisp\ColorBarTest\bin\Debug\Instruments.xml
+D:\NET.C#\HygroDisp\ColorBarTest\obj\Debug\ResolveAssemblyReference.cache
+D:\NET.C#\HygroDisp\ColorBarTest\obj\Debug\HygDisplay.Form_Display.resources
+D:\NET.C#\HygroDisp\ColorBarTest\obj\Debug\HygDisplay.Properties.Resources.resources
+D:\NET.C#\HygroDisp\ColorBarTest\obj\Debug\HygrometerDisp.csproj.GenerateResource.Cache
+D:\NET.C#\HygroDisp\ColorBarTest\obj\Debug\HygDisp.exe.manifest
+D:\NET.C#\HygroDisp\ColorBarTest\obj\Debug\HygDisp.application
+D:\NET.C#\HygroDisp\ColorBarTest\obj\Debug\HygDisp.exe
+D:\NET.C#\HygroDisp\ColorBarTest\obj\Debug\HygDisp.pdb

@@ -1,0 +1,114 @@
+D:\NET.C#\AOA\ColorBarTest\bin\Release\AOA Ind.exe.config
+D:\NET.C#\AOA\ColorBarTest\bin\Release\AOA Ind.exe.manifest
+D:\NET.C#\AOA\ColorBarTest\bin\Release\AOA Ind.application
+D:\NET.C#\AOA\ColorBarTest\bin\Release\AOA Ind.exe
+D:\NET.C#\AOA\ColorBarTest\bin\Release\AOA Ind.pdb
+D:\NET.C#\AOA\ColorBarTest\bin\Release\ColorBar.dll
+D:\NET.C#\AOA\ColorBarTest\bin\Release\Instruments.dll
+D:\NET.C#\AOA\ColorBarTest\bin\Release\Instruments.pdb
+D:\NET.C#\AOA\ColorBarTest\bin\Release\Instruments.xml
+D:\NET.C#\AOA\ColorBarTest\bin\Release\ColorBar.pdb
+D:\NET.C#\AOA\ColorBarTest\bin\Release\ColorBar.xml
+D:\NET.C#\AOA\ColorBarTest\obj\Release\ResolveAssemblyReference.cache
+D:\NET.C#\AOA\ColorBarTest\obj\Release\AOA_indicator.Form1.resources
+D:\NET.C#\AOA\ColorBarTest\obj\Release\AOA_indicator.Properties.Resources.resources
+D:\NET.C#\AOA\ColorBarTest\obj\Release\AOA_display.csproj.GenerateResource.Cache
+D:\NET.C#\AOA\ColorBarTest\obj\Release\AOA Ind.exe.manifest
+D:\NET.C#\AOA\ColorBarTest\obj\Release\AOA Ind.application
+D:\NET.C#\AOA\ColorBarTest\obj\Release\AOA Ind.exe
+D:\NET.C#\AOA\ColorBarTest\obj\Release\AOA Ind.pdb
+\\Dell\aoa\ColorBarTest\bin\Release\AOA Ind.exe.config
+\\Dell\aoa\ColorBarTest\obj\Release\AOA Ind.exe
+\\Dell\aoa\ColorBarTest\obj\Release\ResolveAssemblyReference.cache
+\\Dell\aoa\ColorBarTest\obj\Release\AOA_indicator.Form1.resources
+\\Dell\aoa\ColorBarTest\obj\Release\AOA_indicator.Properties.Resources.resources
+\\Dell\aoa\ColorBarTest\obj\Release\AOA_display.csproj.GenerateResource.Cache
+\\Dell\aoa\ColorBarTest\bin\Release\AOA Ind.exe.manifest
+\\Dell\aoa\ColorBarTest\bin\Release\AOA Ind.application
+\\Dell\aoa\ColorBarTest\bin\Release\AOA Ind.exe
+\\Dell\aoa\ColorBarTest\bin\Release\AOA Ind.pdb
+\\Dell\aoa\ColorBarTest\bin\Release\Instruments.pdb
+\\Dell\aoa\ColorBarTest\bin\Release\Instruments.xml
+\\Dell\aoa\ColorBarTest\bin\Release\ColorBar.pdb
+\\Dell\aoa\ColorBarTest\bin\Release\ColorBar.xml
+\\Dell\aoa\ColorBarTest\obj\Release\AOA Ind.exe.manifest
+\\Dell\aoa\ColorBarTest\obj\Release\AOA Ind.application
+\\Dell\aoa\ColorBarTest\obj\Release\AOA Ind.pdb
+D:\New Folder\ColorBarTest\bin\Release\AOA Ind.exe.config
+D:\New Folder\ColorBarTest\bin\Release\AOA Ind.exe.manifest
+D:\New Folder\ColorBarTest\bin\Release\AOA Ind.application
+D:\New Folder\ColorBarTest\bin\Release\AOA Ind.exe
+D:\New Folder\ColorBarTest\bin\Release\AOA Ind.pdb
+D:\New Folder\ColorBarTest\bin\Release\Instruments.pdb
+D:\New Folder\ColorBarTest\bin\Release\Instruments.xml
+D:\New Folder\ColorBarTest\bin\Release\ColorBar.pdb
+D:\New Folder\ColorBarTest\bin\Release\ColorBar.xml
+D:\New Folder\ColorBarTest\obj\Release\ResolveAssemblyReference.cache
+D:\New Folder\ColorBarTest\obj\Release\AOA_indicator.Form1.resources
+D:\New Folder\ColorBarTest\obj\Release\AOA_indicator.Properties.Resources.resources
+D:\New Folder\ColorBarTest\obj\Release\AOA_display.csproj.GenerateResource.Cache
+D:\New Folder\ColorBarTest\obj\Release\AOA Ind.exe.manifest
+D:\New Folder\ColorBarTest\obj\Release\AOA Ind.application
+D:\New Folder\ColorBarTest\obj\Release\AOA Ind.exe
+D:\New Folder\ColorBarTest\obj\Release\AOA Ind.pdb
+C:\AOA_C#\ColorBarTest\bin\Release\AOA Ind.exe.config
+C:\AOA_C#\ColorBarTest\bin\Release\AOA Ind.exe.manifest
+C:\AOA_C#\ColorBarTest\bin\Release\AOA Ind.application
+C:\AOA_C#\ColorBarTest\bin\Release\AOA Ind.exe
+C:\AOA_C#\ColorBarTest\bin\Release\AOA Ind.pdb
+C:\AOA_C#\ColorBarTest\obj\Release\ResolveAssemblyReference.cache
+C:\AOA_C#\ColorBarTest\obj\Release\AOA_indicator.Form1.resources
+C:\AOA_C#\ColorBarTest\obj\Release\AOA_indicator.Properties.Resources.resources
+C:\AOA_C#\ColorBarTest\obj\Release\AOA_display.csproj.GenerateResource.Cache
+C:\AOA_C#\ColorBarTest\obj\Release\AOA Ind.exe.manifest
+C:\AOA_C#\ColorBarTest\obj\Release\AOA Ind.application
+C:\AOA_C#\ColorBarTest\obj\Release\AOA Ind.exe
+C:\AOA_C#\ColorBarTest\obj\Release\AOA Ind.pdb
+C:\Documents and Settings\gary\My Documents\AOA_C#\ColorBarTest\bin\Release\AOA Ind.exe.config
+C:\Documents and Settings\gary\My Documents\AOA_C#\ColorBarTest\obj\Release\AOA Ind.exe
+C:\Documents and Settings\gary\My Documents\AOA_C#\ColorBarTest\obj\Release\AOA Ind.pdb
+C:\Documents and Settings\gary\My Documents\AOA_C#\ColorBarTest\bin\Release\AOA Ind.exe.manifest
+C:\Documents and Settings\gary\My Documents\AOA_C#\ColorBarTest\bin\Release\AOA Ind.application
+C:\Documents and Settings\gary\My Documents\AOA_C#\ColorBarTest\bin\Release\AOA Ind.exe
+C:\Documents and Settings\gary\My Documents\AOA_C#\ColorBarTest\bin\Release\AOA Ind.pdb
+C:\Documents and Settings\gary\My Documents\AOA_C#\ColorBarTest\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\gary\My Documents\AOA_C#\ColorBarTest\obj\Release\AOA_indicator.Properties.Resources.resources
+C:\Documents and Settings\gary\My Documents\AOA_C#\ColorBarTest\obj\Release\AOA_display.csproj.GenerateResource.Cache
+C:\Documents and Settings\gary\My Documents\AOA_C#\ColorBarTest\obj\Release\AOA Ind.exe.manifest
+C:\Documents and Settings\gary\My Documents\AOA_C#\ColorBarTest\obj\Release\AOA Ind.application
+D:\NET.C#\AOA_C#\ColorBarTest\bin\Release\AOA Ind.exe.config
+D:\NET.C#\AOA_C#\ColorBarTest\obj\Release\AOA Ind.exe
+D:\NET.C#\AOA_C#\ColorBarTest\obj\Release\AOA Ind.pdb
+D:\NET.C#\AOA_C#\ColorBarTest\bin\Release\AOA Ind.exe.manifest
+D:\NET.C#\AOA_C#\ColorBarTest\bin\Release\AOA Ind.application
+D:\NET.C#\AOA_C#\ColorBarTest\bin\Release\AOA Ind.exe
+D:\NET.C#\AOA_C#\ColorBarTest\bin\Release\AOA Ind.pdb
+D:\NET.C#\AOA_C#\ColorBarTest\bin\Release\ColorBar.dll
+D:\NET.C#\AOA_C#\ColorBarTest\bin\Release\Instruments.dll
+D:\NET.C#\AOA_C#\ColorBarTest\bin\Release\Instruments.pdb
+D:\NET.C#\AOA_C#\ColorBarTest\bin\Release\Instruments.xml
+D:\NET.C#\AOA_C#\ColorBarTest\bin\Release\ColorBar.pdb
+D:\NET.C#\AOA_C#\ColorBarTest\bin\Release\ColorBar.xml
+D:\NET.C#\AOA_C#\ColorBarTest\obj\Release\ResolveAssemblyReference.cache
+D:\NET.C#\AOA_C#\ColorBarTest\obj\Release\AOA_indicator.Form1.resources
+D:\NET.C#\AOA_C#\ColorBarTest\obj\Release\AOA_indicator.Properties.Resources.resources
+D:\NET.C#\AOA_C#\ColorBarTest\obj\Release\AOA_display.csproj.GenerateResource.Cache
+D:\NET.C#\AOA_C#\ColorBarTest\obj\Release\AOA Ind.exe.manifest
+D:\NET.C#\AOA_C#\ColorBarTest\obj\Release\AOA Ind.application
+H:\AOA_C#\ColorBarTest\bin\Release\AOA Ind.exe.config
+H:\AOA_C#\ColorBarTest\obj\Release\AOA Ind.exe
+H:\AOA_C#\ColorBarTest\obj\Release\AOA Ind.pdb
+H:\AOA_C#\ColorBarTest\bin\Release\AOA Ind.exe.manifest
+H:\AOA_C#\ColorBarTest\bin\Release\AOA Ind.application
+H:\AOA_C#\ColorBarTest\bin\Release\AOA Ind.exe
+H:\AOA_C#\ColorBarTest\bin\Release\AOA Ind.pdb
+H:\AOA_C#\ColorBarTest\obj\Release\ResolveAssemblyReference.cache
+H:\AOA_C#\ColorBarTest\obj\Release\AOA_indicator.Properties.Resources.resources
+H:\AOA_C#\ColorBarTest\obj\Release\AOA_display.csproj.GenerateResource.Cache
+H:\AOA_C#\ColorBarTest\obj\Release\AOA Ind.exe.manifest
+H:\AOA_C#\ColorBarTest\obj\Release\AOA Ind.application
+H:\AOA_C#\ColorBarTest\obj\Release\AOA_indicator.Form_AOA.resources
+C:\Documents and Settings\gary\My Documents\AOA_C#\ColorBarTest\obj\Release\AOA_indicator.Form_AOA.resources
+D:\NET.C#\HygroDisp\ColorBarTest\bin\Release\AOA Ind.exe.config
+D:\NET.C#\HygroDisp\ColorBarTest\obj\Release\AOA Ind.exe
+D:\NET.C#\HygroDisp\ColorBarTest\obj\Release\AOA Ind.pdb
